@@ -1,0 +1,63 @@
+############################
+# OS
+############################
+
+.DS_Store
+.tmp
+.temp
+
+############################
+# Packages
+############################
+
+node_modules
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+package-lock.json
+yarn.lock
+
+############################
+# Strapi
+############################
+
+.env
+license.txt
+exports
+.strapi
+dist
+build
+.strapi-updater.json
+*.cache
+.strapi-cloud.json
+
+############################
+# Misc
+############################
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage
+.nyc_output
+
+############################
+# Editors
+############################
+
+.idea
+.vscode
+*.swp
+*.swo
+*~
+.history

@@ -1,0 +1,30 @@
+{
+  "name": "oauth-github-strapi-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Backend Strapi para autenticación OAuth con GitHub",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "dependencies": {
+    "@strapi/strapi": "4.15.5",
+    "@strapi/plugin-users-permissions": "4.15.5",
+    "@strapi/plugin-i18n": "4.15.5",
+    "better-sqlite3": "9.2.2"
+  },
+  "devDependencies": {},
+  "author": {
+    "name": "Tu Nombre"
+  },
+  "strapi": {
+    "uuid": "oauth-github-project"
+  },
+  "engines": {
+    "node": ">=18.0.0 <=20.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
