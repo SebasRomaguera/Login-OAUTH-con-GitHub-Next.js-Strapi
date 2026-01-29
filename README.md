@@ -1,6 +1,9 @@
 # 🔐 Login OAuth con GitHub - Next.js + Strapi
 
 Proyecto de demostración de autenticación social usando GitHub como proveedor OAuth en una arquitectura moderna con Next.js (frontend) y Strapi (backend).
+## Demo
+
+https://github.com/SebasRomaguera/Login-OAUTH-con-GitHub-Next.js-Strapi/blob/main/VideoStrapi.mp4
 
 ## 📋 Tabla de Contenidos
 
